@@ -1,4 +1,4 @@
-# Lab 14: Big O
+# Lab 15: Big O
 
 Instead of writing code, in this lab we will find the big-O time complexity of various functions expressed in psuedocode. The functions are taken directly from Chapter 4 in the textbook:
 
